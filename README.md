@@ -1,7 +1,7 @@
 # viscerubus
 CLI tool for read, edit and remove EXIF data  
 By 0x7b  
-we telegram - @the361soft  
+our telegram - @the361soft    
 
 # Install
 ## Quick install
