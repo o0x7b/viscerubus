@@ -6,10 +6,10 @@ we telegram - @the361soft
 # Install
 ## Quick install
 
-$ apt install git 
-$ git clone https://github.com/o0x7b/viscerubus 
-$ cd visceribus
-$ bash install.sh
+* apt install git 
+* git clone https://github.com/o0x7b/viscerubus 
+* cd visceribus
+* bash install.sh
 ## Start programm:
 $ python 3 main.py
 
